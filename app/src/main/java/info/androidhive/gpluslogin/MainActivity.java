@@ -222,5 +222,5 @@ public class MainActivity extends AppCompatActivity implements
         }
     }
 
-    //Master + master + Master + mast----------------------------------->>>
+    //V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+V2+
 }
